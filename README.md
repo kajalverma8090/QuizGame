@@ -1,5 +1,5 @@
 # QuizGame
-# 🧩 Sliding Puzzle Game – Java Project
+# 🧩 Quiz Game – Java Project
 
 This is a simple 8-tile **Sliding Puzzle Game** developed using **Java AWT**. It simulates the classic number puzzle where players rearrange tiles in a 3x3 grid until they are in the correct order, leaving the last space empty.
 
